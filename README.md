@@ -2,7 +2,7 @@
 
 A collection of precompiled versions of i386-elf-gcc for different architectures.
 
-Check out the [https://github.com/danirod/i386-elf-compiler-collection/releases](Releases) page where I'll upload
+Check out the [Releases](https://github.com/danirod/i386-elf-compiler-collection/releases) page where I'll upload
 precompiled versions of the i386-elf-gcc and i386-elf-binutils for different platforms. I'll provide a build
 script later in case you want to build i386-elf on your own on your machine.
 
