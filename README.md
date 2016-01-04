@@ -1,6 +1,11 @@
 # i386-elf-compiler-collection
 
-## About
+* [About](https://github.com/danirod/i386-elf-compiler-collection#about)
+* [Supported platforms](https://github.com/danirod/i386-elf-compiler-collection#about)
+* [Downloading precompiled packages](https://github.com/danirod/i386-elf-compiler-collection#downloading-precompiled-packages)
+* [How to build](https://github.com/danirod/i386-elf-compiler-collection#how-to-build)
+
+## About
 
 This buildscript downloads, compiles and installs GNU Binutils and GNU GCC
 targetting the i386-elf platform as a cross-compiler. It can be used to build
