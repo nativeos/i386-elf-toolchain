@@ -1,7 +1,7 @@
 # i386-elf-compiler-collection
 
 * [About](#about)
-* [Supported platforms](#about)
+* [Supported platforms](#supported-platforms)
 * [Downloading precompiled packages](#downloading-precompiled-packages)
 * [How to build](#how-to-build)
 
