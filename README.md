@@ -1,9 +1,9 @@
 # i386-elf-compiler-collection
 
-* [About](https://github.com/danirod/i386-elf-compiler-collection#about)
-* [Supported platforms](https://github.com/danirod/i386-elf-compiler-collection#about)
-* [Downloading precompiled packages](https://github.com/danirod/i386-elf-compiler-collection#downloading-precompiled-packages)
-* [How to build](https://github.com/danirod/i386-elf-compiler-collection#how-to-build)
+* [About](#about)
+* [Supported platforms](#about)
+* [Downloading precompiled packages](#downloading-precompiled-packages)
+* [How to build](#how-to-build)
 
 ## About
 
